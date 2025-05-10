@@ -1,0 +1,56 @@
+{
+  "author": "Tania Sheff",
+  "canonical_url": "https://cooktoria.com/cabbage-sauteed-chicken/",
+  "site_name": "COOKTORIA",
+  "host": "cooktoria.com",
+  "language": "en-US",
+  "title": "Cabbage Sauteed with Chicken",
+  "ingredients": [
+    "3 tbsp olive oil",
+    "1 1/2 lb boneless chicken thighs, cut into small pieces",
+    "1 medium cabbage",
+    "2 medium carrots (shredded)",
+    "1 tbsp paprika",
+    "2 tbsp. tomato paste",
+    "1 cup chicken stock",
+    "2/3 tsp. salt (or to taste)",
+    "1/4 tsp. pepper (or to taste)",
+    "1 tbsp. hot sauce (optional)",
+    "2 tbsp. chopped fresh parsley"
+  ],
+  "instructions_list": [
+    "Warm up a large sauté pan over medium-high heat. Add the olive oil and chicken. Fry for 5-7 minutes or until browned.",
+    "Meanwhile, slice the cabbage into thin strips, just like you would for coleslaw.",
+    "Add the paprika and tomato paste to the chicken. Stir, and then sauté for another five minutes.",
+    "Add the cabbage and cook for five more minutes.",
+    "Add the shredded carrots, chicken stock, salt, and pepper. Stir everything together. Cook without the lid, stirring occasionally, for about 40 minutes, until there is no liquid remaining.",
+    "Add 1 tablespoon of hot sauce, if desired. Garnish with fresh parsley."
+  ],
+  "category": "Main Course",
+  "yields": "8 servings",
+  "description": "Succulent cabbage sauteed with tender chicken and vegetables. Just a few ingredients and about 15 minutes of active time make up this delicious dinner. This is my #1 Best Recipe yet!",
+  "total_time": 75,
+  "cook_time": 60,
+  "prep_time": 15,
+  "cuisine": "ukrainian",
+  "ratings": 4.62,
+  "ratings_count": 669,
+  "nutrients": {
+    "servingSize": "1 serving",
+    "calories": "286 kcal",
+    "fatContent": "20 g",
+    "saturatedFatContent": "5 g",
+    "unsaturatedFatContent": "14 g",
+    "transFatContent": "0.1 g",
+    "carbohydrateContent": "11 g",
+    "sugarContent": "5 g",
+    "proteinContent": "17 g",
+    "sodiumContent": "379 mg",
+    "fiberContent": "4 g",
+    "cholesterolContent": "84 mg"
+  },
+  "image": "https://cooktoria.com/wp-content/uploads/2018/12/Cabbage-and-Chicken-SQ-3.jpg",
+  "keywords": [
+    "cabbage with chicken"
+  ]
+}

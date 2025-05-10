@@ -117,6 +117,7 @@ from .cookpad import CookPad
 from .cookscountry import CooksCountry
 from .cooksillustrated import CooksIllustrated
 from .cooktalk import CookTalk
+from .cooktoria import Cooktoria
 from .cookwell import CookWell
 from .copykat import CopyKat
 from .costco import Costco
@@ -557,6 +558,7 @@ SCRAPERS = {
     Cookomix.host(): Cookomix,
     CooksCountry.host(): CooksCountry,
     CooksIllustrated.host(): CooksIllustrated,
+    Cooktoria.host(): Cooktoria,
     CopyKat.host(): CopyKat,
     Costco.host(): Costco,
     CountryLiving.host(): CountryLiving,
